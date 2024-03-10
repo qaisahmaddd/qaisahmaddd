@@ -1,8 +1,8 @@
-<h1><img src="https://slackmojis.com/emojis/49210-whacky_greeting/download" width="30"/> Halo, Saya Qais!</h1>
+<h1><img src="https://slackmojis.com/emojis/49210-whacky_greeting/download" width="30"/> Welcome to my Github Page!</h1>
 
 
-<p>Selamat Datang! </br> Saya adalah new comer Data Scientist. Saya baru saja menyelesaikan Bootcamp Full Stack Data Science di Maret 2024 ini.</p>
-<h3>Bahasa yang saya gunakan</h3>
+<p>Hi! </br> I am Qais. I am a newcomer Data Scientist. I have just completed the Full Stack Data Science Bootcamp in March 2024.</p>
+<h3>"The programming languages ​​I use."</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -11,7 +11,7 @@
   
 </p>
 
-<h3>Libraries Python yang saya gunakan</h3>
+<h3>Python Libraries I use</h3>
 <p>
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="Numpy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -24,7 +24,7 @@
   <img alt="Apache Airflow" src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
 </p>
 
-<h3>Tools yang saya gunakan</h3>
+<h3>Tools I use</h3>
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="ElasticSearch" src="https://img.shields.io/badge/-Elastic_Search-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
@@ -37,13 +37,13 @@
   <img alt="Google BigQuery" src="https://img.shields.io/badge/-Google_BigQuery-0088CC?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
-<h3>Tools Visualisasi yang saya gunakan</h3>
+<h3>Visualization Tools I use</h3>
 <p>
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white" />
 </p>
   
-<h3>Portfolio Tugas Selama Bootcamp</h3>
+<h3>Bootcamp Challenge Portfolio</h3>
 <table>
   <tr>
     <th>Phase</th>
@@ -128,7 +128,7 @@
 </table>
 
 ------------
-<h3>Sosial Media Saya</h3>
+<h3>My Social Media</h3>
 <p><a href="https://github.com/qaisahmaddd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/qais-ahmad-45b36280/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://huggingface.co/qaisahmad" target="_blank"><img alt="HuggingFace" src="https://img.shields.io/badge/huggingface-%2312100E.svg?&style=for-the-badge&logo=huggingface&logoColor=white" /></a></p>
