@@ -1,4 +1,4 @@
-<h1><img src="https://slackmojis.com/emojis/49210-whacky_greeting/download" width="30"/> Welcome to my Github Page!</h1>
+<h1><img src="https://slackmojis.com/emojis/18556-welcome/download" width="30"/> Welcome to my Github Page!</h1>
 
 
 <p>Hi! </br> I am Qais. I am a newcomer Data Scientist. I have just completed the Full Stack Data Science Bootcamp in March 2024.</p>
@@ -132,5 +132,5 @@
 <p><a href="https://github.com/qaisahmaddd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/qais-ahmad-45b36280/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://huggingface.co/qaisahmad" target="_blank"><img alt="HuggingFace" src="https://img.shields.io/badge/huggingface-%2312100E.svg?&style=for-the-badge&logo=huggingface&logoColor=white" /></a></p>
-
 ------------
+<h1><img src="https://slackmojis.com/emojis/56793-thanks/download" width="30"/> Thanks!</h1>
