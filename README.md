@@ -44,88 +44,29 @@
 </p>
   
 <h3>Bootcamp Challenge Portfolio</h3>
-<table>
-  <tr>
-    <th>Phase</th>
-    <th>Activity</th>
-    <th>Objective</th>
-  </tr>
-  <tr>
-    <td rowspan="7">Phase 0</td>
-    <td>Graded Challenge 1</td>
-    <td>Python: Conditionals, Loops, Functions, Python Unit Test, Computational Thinking</td>
-  </tr>
-  <tr>
-    <td>Live Code 1</td>
-    <td>Python: Conditionals, Loops, Functions, Python Unit Test, Computational Thinking</td>
-  </tr>
-  <tr>
-    <td>Graded Challenge 2</td>
-    <td>SQL and Pandas</td>
-  </tr>
-  <tr>
-    <td>Live Code 2</td>
-    <td>SQL and Pandas</td>
-  </tr>
-  <tr>
-    <td>Graded Challenge 3</td>
-    <td>Web Scraping, Business Knowledge, Practical Statistics</td>
-  </tr>
-  <tr>
-    <td>Live Code 3</td>
-    <td>Descriptive Statistics and API</td>
-  </tr>
-  <tr>
-    <td>Milestone 1</td>
-    <td>End to End Phase 0</td>
-  </tr>
-  <tr>
-    <td rowspan="7">Phase 1</td>
-    <td>Graded Challenge 4</td>
-    <td>Supervised Machine Learning: Regression / Linear Regression</td>
-  </tr>
-  <tr>
-    <td>Live Code 4</td>
-    <td>Supervised Machine Learning: Regression / Linear Regression</td>
-  </tr>
-  <tr>
-    <td>Graded Challenge 5</td>
-    <td>Supervised Machine Learning: Classification / Logistic Regression, SVM, KNN</td>
-  </tr>
-  <tr>
-    <td>Live Code 5</td>
-    <td>Supervised Machine Learning: Classification / Ensemble Learning</td>
-  </tr>
-  <tr>
-    <td>Graded Challenge 6</td>
-    <td>Unsupervised Machine Learning: K-Means with PCA</td>
-  </tr>
-  <tr>
-    <td>Live Code 6</td>
-    <td>Unsupervised Machine Learning: K-Means</td>
-  </tr>
-  <tr>
-    <td>Milestone 2</td>
-    <td>End to End Machine Learning</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Phase 2</td>
-    <td>Graded Challenge 7</td>
-    <td>Natural Language Processing</td>
-  </tr>
-  <tr>
-    <td>Live Code 7</td>
-    <td>Artificial Neural Network</td>
-  </tr>
-  <tr>
-    <td>Live Code 8</td>
-    <td>NoSQL, Elastic Search, Kibana</td>
-  </tr>
-  <tr>
-    <td>Milestone 3</td>
-    <td>End to End Phase 2</td>
-  </tr>
-</table>
+kumpulan repository tugas selama Bootcamp Full Time Data Science:
+
+| Phase   | Activity                           | Objective                                                                      |
+|---------|------------------------------------|----------------------------------------------------------------------------|
+| Phase 0 | [Graded Challenge 1](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Graded%20Challenge%201)                 | Python: Conditionals, Loops, Functions, Python Unit Test, Computational Thinking |
+|         | [Live Code 1](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%201)                        | Python: Conditionals, Loops, Functions, Python Unit Test, Computational Thinking |
+|         | [Graded Challenge 2](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Graded%20Challenge%202)                 | SQL and Pandas                                                             |
+|         | [Live Code 2](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%202)                        | SQL and Pandas                                                             |
+|         | [Graded Challenge 3](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Graded%20Challenge%203)                 | Web Scraping, Business Knowledge, Practical Statistics                      |
+|         | [Live Code 3](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%203)                        | Descriptive Statistics and API                                             |
+|         | [Milestone 1](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Milestone%201)                        | End to End Phase 0                                                         |
+| Phase 1 | [Graded Challenge 4](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Graded%20Challenge%204)                 | Supervised Machine Learning: Regression / Linear Regression                |
+|         | [Live Code 4](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%204)                        | Supervised Machine Learning: Regression / Linear Regression                |
+|         | [Graded Challenge 5](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Graded%20Challenge%205)                 | Supervised Machine Learning: Classification / Logistic Regression, SVM, KNN |
+|         | [Live Code 5](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%205)                        | Supervised Machine Learning: Classification / Ensemble Learning             |
+|         | [Graded Challenge 6](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Graded%20Challenge%206)                 | Unsupervised Machine Learning: K-Means with PCA                            |
+|         | [Live Code 6](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%206)                        | Unsupervised Machine Learning: K-Means                                     |
+|         | [Milestone 2](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Milestone%202)                        | End to End Machine Learning                                                 |
+| Phase 2 | [Graded Challenge 7](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Graded%20Challenge%207)                 | Natural Language Processing                                                |
+|         | [Live Code 7](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%207)                        | Artificial Neural Network                                                   |
+|         | [Live Code 8](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%208)                        | NoSQL, Elastic Search, Kibana                                               |
+|         | [Milestone 3](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Milestone%203)                        | End to End Phase 2                                                         |
+
 
 ------------
 <h3>My Social Media</h3>
