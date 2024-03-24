@@ -63,7 +63,7 @@ kumpulan repository tugas selama Bootcamp Full Time Data Science:
 | [Live Code 6](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%206)                        | Unsupervised Machine Learning: K-Means                                     |
 | [Live Code 7](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%207)                        | Artificial Neural Network                                                   |
 | [Live Code 8](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Live%20Code%208)                        | NoSQL, Elastic Search, Kibana                                               |
-| [Milestone 1](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Milestone%201)                        | Statistics, Business Accummen, Marketing Analytics, Tableau Dashboard                                                         |
+| [Milestone 1](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Milestone%201)                        | Statistics, Business Acumen, Marketing Analytics, Tableau Dashboard                                                         |
 | [Milestone 2](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Milestone%202)                        | End to End Machine Learning                                                 |
 | [Milestone 3](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Milestone%203)                        | Deep Analytics, Data Visualization with Kibana, Data Automation with Airflow, Elastic Search, SQL                                                          |
 
