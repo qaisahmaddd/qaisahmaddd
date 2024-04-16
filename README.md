@@ -67,6 +67,8 @@ kumpulan repository tugas selama Bootcamp Full Time Data Science:
 | [Milestone 2](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Milestone%202)                        | End to End Machine Learning                                                 |
 | [Milestone 3](https://github.com/qaisahmaddd/BootcampDataScience/tree/main/Milestone%203)                        | Deep Analytics, Data Visualization with Kibana, Data Automation with Airflow, Elastic Search, SQL                                                          |
 
+[Private Dictionary / myDict](https://github.com/qaisahmaddd/myDict)
+
 
 ------------
 <h3>My Social Media</h3>
